@@ -1,0 +1,4 @@
+browser chrome
+url https://rahulshettyacademy.com/client/
+emailId manjanagowda.linganagowdra@moolya.com
+password Manju@123
